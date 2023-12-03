@@ -1,6 +1,7 @@
 # todolist
 
 A Flutter program for adding notes and managing tasks, developed by Mohammad Hossein Khan Mohammadi (vishko).
+![The main image of the Todolist program](https://github.com/mrvishko/MyTodoList/assets/93584165/33fda999-d7ef-4f4b-a3d6-17e77b7287db)
 
 ## Getting Started
 
